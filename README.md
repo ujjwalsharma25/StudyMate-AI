@@ -244,7 +244,8 @@ Open **http://localhost:5173**, sign up, and you're in.
 
 **Ujjwal Sharma**
 
-[![LinkedIn] linkedin.com/in/ujjwal-sharma-934100379
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ujjwal_Sharma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]
+linkedin.com/in/ujjwal-sharma-934100379
 
 *⭐ If this project helped you, consider giving it a star!*
 
