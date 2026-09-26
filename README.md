@@ -242,10 +242,10 @@ Open **http://localhost:5173**, sign up, and you're in.
 
 ### Built for DEV2HACK 2026 by Team Vision Coders
 
-**Ujjwal Sharma** (Team Lead) · Aastha · Aanya · Nishita
+**Ujjwal Sharma**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ujjwal_Sharma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ujjwal_Sharma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjwal-sharma-934100379) 
+[![GitHub](https://img.shields.io/badge/GitHub-ujjwalsharma25-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ujjwalsharma25)
 
 *⭐ If this project helped you, consider giving it a star!*
 
