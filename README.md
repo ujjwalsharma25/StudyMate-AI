@@ -13,6 +13,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![Groq](https://img.shields.io/badge/LLM-Groq-F55036?style=flat-square)](https://groq.com)
 [![License](https://img.shields.io/badge/License-MIT-gray?style=flat-square)]()
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_App-success?style=flat-square&logo=vercel&logoColor=white)](https://study-mate-ai-theta-six.vercel.app)
 
 </div>
 
